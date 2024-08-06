@@ -15,3 +15,12 @@ label{
 form{
     display: inline-block;
 }
+
+table{
+    background-color: cornflowerblue;
+    color: black;
+}
+
+li{
+    background-color: rebeccapurple;
+}
