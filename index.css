@@ -8,3 +8,11 @@ p{
 h1{
     text-align: center;
 }
+table{
+    background-color: cornflowerblue;
+    color: black;
+}
+
+li{
+    background-color: rebeccapurple;
+}
